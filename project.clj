@@ -1,4 +1,4 @@
-(defproject com.thelastcitadel/lobsang "0.1.0-SNAPSHOT"
+(defproject com.thelastcitadel/lobsang "0.1.0"
   :description "Lobsang is the son of Wen the Eternally Surprised"
   :url "https://github.com/hiredman/lobsang"
   :license {:name "Eclipse Public License"
