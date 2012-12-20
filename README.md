@@ -6,7 +6,7 @@ Lobsang is the son of Wen the Eternally Surprised
 
 create a uberwar
 
-    lein uberwar
+    lein ring uberwar
 
 deploy war to your prefered container.
 
